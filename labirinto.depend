@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1628426027 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1628426027 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\coord.h
+	<iostream>
+
+1628730911 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+	"Noh.h"
+
+1628730619 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+
+1628426027 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1628730978 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\noh.cpp
+	"noh.h"
+
+1628731116 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\noh.h
+	"coord.h"
+
+1628426027 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1628426027 c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\coord.h
+	<iostream>
+
+1628426027 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1628561880 c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+
+1628560007 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\noh.cpp
+	"noh.h"
+
+1628560007 c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\noh.h
+	"coord.h"
+	<vector>
+
+1628452084 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+	"Noh.h"
+
+1628426027 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\coord.cpp
+	<cmath>
+	"coord.h"
+
+1628426027 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\coord.h
+	<iostream>
+
+1628730911 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"labirinto.h"
+	"Noh.h"
+
+1628730619 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\labirinto.h
+	<vector>
+	"coord.h"
+
+1628731116 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\noh.h
+	"coord.h"
+
+1628426027 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1628730978 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 2\labirinto_vitor_vale\noh.cpp
+	"noh.h"
+
